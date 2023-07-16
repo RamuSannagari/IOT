@@ -1,2 +1,2 @@
 select count(*)
-from emp
+from employees
